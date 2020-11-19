@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment MAD_01</string>
+    <string name="add_new_contact">+ Add New Contact</string>
+    <string name="tvName">Name</string>
+    <string name="line_2">Line 2</string>
+    <string name="line_22">Line 22</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="contact_number">Contact Number:</string>
+    <string name="email">Email:</string>
+    <string name="name">Name:</string>
+</resources>
